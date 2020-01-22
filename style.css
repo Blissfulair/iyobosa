@@ -156,7 +156,7 @@ header{
     width: 70%;
     border: 8px solid var(--border);
     position: relative;
-    background: url(img/present.jpg) center center/cover;
+    background: url(img/present.png) center center/cover;
 }
 .box-desktop{
     display: flex;
@@ -272,7 +272,7 @@ header{
     height: 64vh;
     width: 82%;
     /* background: #D5D1D1; */
-    background: url(img/iyobosa.jpg) center center/cover;
+    background: url(img/iyobosa.png) center center/cover;
     position: relative;
 }
 .about .col2 .img::before{
@@ -283,7 +283,7 @@ header{
     height: 48vh;
     width: 70%;
     /* background: #E1DDDD; */
-    background: url(img/past.jpg) center center/cover;
+    background: url(img/past.png) center center/cover;
 }
 .about .col2 .img::after{
     position: absolute;

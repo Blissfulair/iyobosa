@@ -11,6 +11,7 @@
 // document.querySelector('body').addEventListener('click', (e)=>{
 //     overlay.style.display = 'none';
 // })
+console.log('lll')
 let themes = {
     light:{
         'black': '#000000',
